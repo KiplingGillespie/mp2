@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.joda.time.TestAllPackages
+-------------------------------------------------------------------------------
+Tests run: 4221, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.155 sec - in org.joda.time.TestAllPackages
